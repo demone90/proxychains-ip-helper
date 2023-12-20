@@ -22,7 +22,7 @@ never to harm someone or something without permissions.
 
 - ChatGPT to write down the initial code structure
 - https://github.com/TheSpeedX/PROXY-List to look up proxies IP addresses (updated each hour)
-- https://hidemy.io/en/proxy-list/ to generate the actual txt file with active and usable IPs
+- https://hidemy.io/en/proxy-checker/ to generate the actual txt file with active and usable IPs
 - Kali Linux to test it
 
 ## WIP
